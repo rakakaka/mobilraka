@@ -1,0 +1,44 @@
+{
+    "mobil": [{
+            "id": 0,
+            "nama": "Mitsubishi Pajero Sport 2.4 Dakar SUV",
+            "merk": "Mitsubishi",
+            "harga": "3000000",
+            "keterangan": "Harga sewa perjam belum termasuk harga bensin",
+            "wa": "6285155123214"
+        },
+        {
+            "id": 2,
+            "nama": "Honda Civic 1.5 ES Sedan",
+            "merk": "Honda",
+            "harga": "4000000",
+            "keterangan": "Harga sewa perjam belum termasuk harga bensin",
+            "wa": "6285155123214"
+        },
+        {
+            "id": 3,
+            "nama": "Toyota Voxy 2.0 R80 Wagon",
+            "merk": "Toyota",
+            "harga": "6000000",
+            "keterangan": "Harga sewa perjam belum termasuk harga bensin",
+            "wa": "6285155123214"
+        },
+        {
+            "id": 4,
+            "nama": "BMW 320i 2.0 Sport Sedan",
+            "merk": "BMW",
+            "harga": "10000000",
+            "keterangan": "Harga sewa perjam belum termasuk harga bensin",
+            "wa": "6285155123214"
+        },
+        {
+            "id": 5,
+            "nama": "BMW 320i 2.0 Sport Sedan",
+            "merk": "BMW",
+            "harga": "10000000",
+            "keterangan": "Harga sewa perjam belum termasuk harga bensin",
+            "wa": "6285155123214"
+        }
+    ]
+
+}
